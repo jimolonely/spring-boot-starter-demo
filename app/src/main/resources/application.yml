@@ -1,0 +1,7 @@
+server:
+  port: 8001
+jimo:
+  util:
+    net:
+      connect-timeout: 3s
+
